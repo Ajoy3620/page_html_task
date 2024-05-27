@@ -1,0 +1,119 @@
+.okreport {
+  background: rgb(146, 83, 83);
+  width: 1095px;
+  padding: 10px;
+  margin: 12px;
+  height: 280px;
+  margin-top: -10px;
+  float: right;
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+  outline: 1px solid rgb(248, 244, 244);
+  outline-offset: 10px;
+  outline: 3px solid;
+  outline-color: rgb(67, 152, 173);
+}
+
+.c {
+  color: blue;
+  text-align: right;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.h {
+  text-align: center;
+  margin-top: -2px;
+  color: white;
+}
+
+.Report {
+  border-collapse: collapse;
+  width: 1350px;
+  text-align: center;
+  height: 300px;
+}
+
+.Ach {
+  color: rgb(211, 49, 49);
+  font-size: 35px;
+  font-weight: bold;
+  background-color: rgb(136, 143, 105);
+}
+
+.De {
+  color: rgb(211, 49, 49);
+  font-size: 35px;
+  font-weight: bold;
+  background-color: rgb(136, 143, 105);
+}
+
+.raw {
+  color: rgb(114, 55, 55);
+  font-size: 35px;
+  font-weight: bold;
+  background-color: rgb(162, 165, 148);
+}
+
+.aw {
+  color: rgb(114, 55, 55);
+  font-size: 35px;
+  font-weight: bold;
+  background-color: rgb(162, 165, 148);
+}
+
+.raw2 {
+  color: rgb(121, 0, 105);
+  font-size: 35px;
+  font-weight: bold;
+  background-color: rgb(136, 143, 105);
+}
+
+.raw3 {
+  color: rgb(121, 0, 105);
+  font-size: 35px;
+  font-weight: bold;
+  background-color: rgb(136, 143, 105);
+}
+
+.six {
+  color: rgb(75, 77, 199);
+  font-size: 35px;
+  font-weight: bold;
+  background-color: rgb(162, 165, 148);
+}
+
+.zero {
+  color: rgb(75, 77, 199);
+  font-size: 35px;
+  font-weight: bold;
+  background-color: rgb(162, 165, 148);
+}
+
+.AC {
+  color: rgb(51, 13, 88);
+}
+
+.final {
+  background-color: rgb(104, 54, 151);
+}
+
+.man {
+  color: rgb(12, 1, 1);
+}
+
+.design {
+  float: right;
+}
+
+.full {
+  background-color: blue;
+}
+
+.ti {
+  color: rgb(247, 245, 248);
+}
